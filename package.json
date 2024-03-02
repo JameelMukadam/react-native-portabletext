@@ -27,7 +27,7 @@
     "lint": "eslint .",
     "prepublishOnly": "pnpm build",
     "test": "vitest",
-    "type-check": "tsc --noEmit",
+    "type-check": "tsc --noEmit"
   },
   "prettier": {
     "bracketSpacing": false,
