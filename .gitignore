@@ -48,7 +48,4 @@ yarn.lock
 # Cache
 .cache
 
-# Compiled portable text
-/dist
-
 package-lock.json

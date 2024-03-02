@@ -28,7 +28,6 @@
     "prepublishOnly": "pnpm build",
     "test": "vitest",
     "type-check": "tsc --noEmit",
-    "postinstall": "npm run build"
   },
   "prettier": {
     "bracketSpacing": false,
